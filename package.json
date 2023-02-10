@@ -2,9 +2,10 @@
   "name": "projeto_m-dulo-5",
   "version": "1.0.0",
   "description": "Projeto_Módulo 5 – Facilitando o dia a dia",
+  "type": "module",
   "main": "app.js",
   "scripts": {
-    "":"node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
